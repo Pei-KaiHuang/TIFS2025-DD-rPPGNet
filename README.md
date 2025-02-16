@@ -6,3 +6,6 @@
 ![plot](figures/idea.png)
 
 ## Architecture of DD-rPPGNet
+![plot](figures/framework.png)
+
+## Coming soon...
