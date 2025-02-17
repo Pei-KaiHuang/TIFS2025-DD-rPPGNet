@@ -8,4 +8,4 @@
 ## Architecture of DD-rPPGNet
 ![plot](figures/framework.png)
 
-## Coming soon...
+## The codes will be released soon.
