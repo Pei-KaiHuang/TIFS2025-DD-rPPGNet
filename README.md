@@ -6,7 +6,8 @@
 ![plot](figures/idea.png)
 
 ## Architecture of DD-rPPGNet
-![plot](figures/framework.png)
+<!-- ![plot](figures/framework.png) -->
+<img src="figures/framework.png" width="600"/>
 
 ## Training & Testing
 Please make sure your dataset is processed and modify the code in `dataloader.py`, `train.py` and `test.py`.
