@@ -9,6 +9,5 @@
 ![plot](figures/framework.png)
 
 ## Training & Testing
-please run 'train.sh'
-
-
+Please make sure your dataset is processed and modify the code in `dataloader.py`, `train.py` and `test.py`.
+Once the code is updated, you can run `train.sh` directly to start training and testing."
