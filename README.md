@@ -3,7 +3,9 @@
 ### DD-rPPGNet: De-interfering and Descriptive Feature Learning for Unsupervised rPPG Estimation
 
 ## Illustration of de-interferenced feature learning in unsupervised rPPG estimation. 
-![plot](figures/idea.png)
+
+<!-- ![plot](figures/idea.png) -->
+<img src="figures/idea" width="1000"/>
 
 ## Architecture of DD-rPPGNet
 <!-- ![plot](figures/framework.png) -->
