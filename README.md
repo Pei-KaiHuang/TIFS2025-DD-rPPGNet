@@ -11,6 +11,9 @@
 <!-- ![plot](figures/framework.png) -->
 <img src="figures/framework.png" width="1000"/>
 
+## Prerequisite
+Please check `requirement.txt` for the required Python libraries.
+
 ## Training & Testing
 Please make sure your dataset is processed and modify the code in `dataloader.py`, `train.py` and `test.py`.
 Once the code is updated, you can run `train.sh` directly to start training and testing."
