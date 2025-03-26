@@ -1,0 +1,15 @@
+einops==0.8.1
+matplotlib==3.8.0
+numpy==2.2.4
+opencv_contrib_python==4.10.0.84
+opencv_python==4.9.0.80
+opencv_python_headless==4.10.0.84
+Pillow==11.1.0
+pytz==2023.4
+scipy==1.15.2
+torch==2.2.2
+torch==2.5.1
+torchvision==0.20.1
+torchvision==0.17.2
+tqdm==4.67.1
+tqdm==4.65.2
