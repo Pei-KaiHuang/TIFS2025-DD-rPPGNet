@@ -8,4 +8,7 @@
 ## Architecture of DD-rPPGNet
 ![plot](figures/framework.png)
 
-## The codes will be released soon.
+## Training & Testing
+please run 'train.sh'
+
+
