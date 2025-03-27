@@ -18,6 +18,9 @@ Please check `requirement.txt` for the required Python libraries.
 Please make sure your dataset is processed and modify the code in `dataloader.py`, `train.py` and `test.py`.
 Once the code is updated, you can run `train.sh` directly to start training and testing."
 
+## Acknowledgment of Outstanding Contributions
+I am deeply grateful to Ya-Ting Chan for her outstanding contributions to this work.
+
 <!-- 
 ## Citation
 If you use the DD-rPPGNet, please cite the paper, thank you:
